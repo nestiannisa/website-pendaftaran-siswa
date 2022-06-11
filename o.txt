@@ -1,0 +1,95 @@
+enum tipe data yang khusus untuk kolom dimana nilai datanya sudah kita tentukan sebelumnya.
+
+md5
+digunakan untuk mengenkripsi data yg bersifat rahasia dan tidak ingin diketahui oleh orang lain
+Berapapun katanya atau panjangnya, MD5 akan mengekripsi data menjadi 128 bit, jika ditulis dalam hex menjadi 32 karakterBerapapun katanya atau panjangnya, MD5 akan mengekripsi data menjadi 128 bit, jika ditulis dalam hex menjadi 32 karakter
+
+1 hexa=4bit
+array array adalah struktur data yang memungkinkan anda untuk menyimpan beberapa elemen dalam satu variabel
+perbedaan prosedur dan fungsi
+
+- Numeric array : jenis array dimana index elemennya didefinisikan dengan angka dan dimulai dari 0
+
+- Associative array : jenis array dimana index elemennya didefinisikan dengan nama untuk dapat mengakses nilai dari array tersebut
+
+- Multidimensional Array : array yg berisi lebih dari satu nilai  data array atau bisa disebut array didalam array.
+
+
+if(nilai='<==50'){
+echo "gagal";
+}else{
+echo "berhasil";
+}
+
+for($i=0; $i<==10;$i++){
+echo $i;
+}
+
+function ini_fungsi($angka1,$angka2){
+$jumlah=$angka1+$angka2;
+return $jumlah;
+}
+
+program di atas fungsi pak 
+
+jawaban perbedaan 
+array
+
+perbaiki essay
+malam set 8
+
+1. Tipe Input yang dibutuhkan:
+
+- text
+
+- date
+
+- enum
+
+- varchar
+
+- integer
+
+
+
+
+
+2. input yg dibutuhkan:
+
+- button 
+
+- radio box
+
+- combo box
+
+- input berupa text, pasword, date 
+
+2. running adalah suatu program untuk dapat mengetahui data outputnya.
+
+debugging adalah suatu program untuk mencari kesalahan pada suatu program lain.
+
+excutable file adalah  jenis file yang digunakan untuk menjalankan serangkaian perintah.
+
+1. kenalan('Mukidi', 'Malang');
+
+1. Standard Library
+
+2. Buzz
+library PHP untuk menangani HTTP request yang paling ringan
+3. jenis array:
+
+library :
+1.Standard Library
+PHP memiliki sejumlah library untuk memparsing HTML. Seperti DOM atau libxml. Untuk melakukan HTTP request dapat juga kita gunakan cUrl agar dapat mensimulasi proses tersebut.
+2. Guzzle
+
+Tools yang saya gunakan pada saya menggunakan php yakni xampp untuk menjalankan Apache sebagai web server dan MySql sebagai database, serta web browser.
+
+input:
+text,date
+
+Tipe data ENUM merupakan tipe data yang khusus untuk kolom dimana nilai datanya sudah kita tentukan sebelumnya. Pilihan ini dapat berisi 1 sampai dengan 65,535 pilihan string. Dimana kolom yang didefinisikan sebagai ENUM hanya dapat memilih satu diantara pilihan string yang tersedia.
+
+Contoh penggunaan ENUM misalnya untuk kolom yang berisi daftar Jurusan yang harus dipilih mahasiswa. Pilihan ini harus sudah tersedia sebelumnya, dan kita dapat menggunakan tipe data enum untuk memastikan bahwa jurusan yang dipilih adalah jurusan yang telah ditentukan sebelumnya dan hanya 1 jurusan.
+
+Tools yang saya gunakan pada saya menggunakan php yakni xampp, dan menjalankan Apache sebagai web server, MySql sebagai database dan web browser.
